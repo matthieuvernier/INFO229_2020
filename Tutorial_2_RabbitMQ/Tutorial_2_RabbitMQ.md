@@ -315,7 +315,7 @@ Hasta ahora, nuestro sistema de logs transmite todos los mensajes a todos los co
 
 Utilizaremos un 'exchange'  de tipo **direct** para enrutear los mensajes como en la configuración siguiente:
 
-![routing](images/exchange-direct,png)
+![routing](images/exchange-direct.png)
 
 En **emit_logs_direct.py**:
 
