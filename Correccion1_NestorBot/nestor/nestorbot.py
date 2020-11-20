@@ -24,7 +24,7 @@ class NestorBot:
         var = [{'$sample':{'size':1}}]
         results = col.aggregate(var)
 
-	text=" "
+        text=" "
         for doc in results:
             text=doc["text"]
 
