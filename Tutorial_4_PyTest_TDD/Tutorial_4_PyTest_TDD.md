@@ -258,14 +258,25 @@ Queremos implementar una función `sum_of_primes([])`que recibe como input una l
 1) Seguir un proceso de *Test-Driven Development* para desarrollar está función.
 2) Desarollar al menos un test parametrizado.
 
-## 3. Tarea
+
+## 3. Para prácticar TDD
+
+Utilizando Python, PyTest y la metodología TDD, resolver los problemas de programación siguientes
+
+    Números romanos: http://codingdojo.org/kata/RomanNumerals/
+    Fizzbuzz: http://codingdojo.org/kata/FizzBuzz/
+    Trading cards Kata: http://codingdojo.org/kata/TradingCardGame/
+    Diamond Kata: http://codingdojo.org/kata/Diamond/
+
+
+## 4. Tarea
 
 1. A partir la correción N°2 del Bot Néstor, agregar pruebas unitarias a los distintos componentes de la arquitectura. ¿Qué ejemplos de pruebas proponen?
 
 2. ¿Cómo se podría combinar las pruebas unitarias con Docker?
 
 
-## 4. Próxima semana
+## 5. Próxima semana
 
 Integraremos pruebas unitarias y seguiremos un desarrollo basado en pruebas para añadir nuevas funcionalidades a nuestra arquitectura de bot.
 
